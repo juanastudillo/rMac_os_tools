@@ -1,2 +1,2 @@
 # ver procesos python
-ps -aux | grep python
+ps -ef | grep python
